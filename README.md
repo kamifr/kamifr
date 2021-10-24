@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there 👋 I'm Kamifer Burns
+---
 
-<!--
-**kamifr/kamifr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Django
+- 🌱 I’m currently learning C++
+- 🐱 If you don't keep moving, you'll quickly fall behind.
+- 💬 Ask me about anything
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+### 🏆 GitHub Profile Trophy
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![kamifr Trophy](https://github-profile-trophy.vercel.app/?username=kamifr&column=8&theme=nord)
+
+### 📊 GitHub Stats
+---
+
+![kamifr All](https://github-readme-stats.vercel.app/api/?username=kamifr&layout=compact&theme=merko&hide_border=true)
+![kamifr Language](https://github-readme-stats.vercel.app/api/top-langs/?username=kamifr&langs_count=8&layout=compact&theme=merko&hide_border=true)
+
+![kamifr Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamifr&theme=github)
+![kamifr Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kamifr&theme=github)
+![kamifr Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamifr&theme=github)
